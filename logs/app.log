@@ -1,0 +1,1091 @@
+2025-02-17 01:28:48,505 - research - INFO - Starting research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:28:48,518 - research - INFO - Using web search
+2025-02-17 01:28:48,518 - research - INFO - Starting web search for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:28:48,519 - research - INFO - Planning research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:28:49,734 - research - INFO - Initial search results obtained: 0 results
+2025-02-17 01:28:53,137 - research - INFO - Research outline planned: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'Growth drivers for NVIDIA beyond gaming and data centers', 'Risks and challenges facing NVIDIA in the semiconductor industry 2025', 'Semiconductor market trends and competitive landscape 2025']
+2025-02-17 01:28:53,138 - research - INFO - Generated sub-queries: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'Growth drivers for NVIDIA beyond gaming and data centers', 'Risks and challenges facing NVIDIA in the semiconductor industry 2025', 'Semiconductor market trends and competitive landscape 2025']
+2025-02-17 01:28:54,264 - research - INFO - Scraped data size: 0
+2025-02-17 01:29:00,205 - research - INFO - Scraped data size: 0
+2025-02-17 01:29:00,259 - research - INFO - Scraped data size: 0
+2025-02-17 01:29:00,307 - research - INFO - Scraped data size: 0
+2025-02-17 01:29:00,353 - research - INFO - Scraped data size: 0
+2025-02-17 01:29:00,361 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:29:00,369 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:29:00,378 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:29:00,386 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:29:00,393 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:29:00,401 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 01:29:00,409 - research - INFO - Research completed. Context size: 2
+2025-02-17 01:31:35,544 - research - INFO - Starting research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:31:35,588 - research - INFO - Using web search
+2025-02-17 01:31:35,592 - research - INFO - Starting web search for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:31:35,593 - research - INFO - Planning research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:31:36,611 - research - INFO - Initial search results obtained: 0 results
+2025-02-17 01:31:38,914 - research - INFO - Research outline planned: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'Growth drivers for NVIDIA beyond gaming and data centers', 'Risks and challenges facing NVIDIA in the semiconductor industry 2025', 'Market trends impacting GPU demand 2025']
+2025-02-17 01:31:38,915 - research - INFO - Generated sub-queries: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'Growth drivers for NVIDIA beyond gaming and data centers', 'Risks and challenges facing NVIDIA in the semiconductor industry 2025', 'Market trends impacting GPU demand 2025']
+2025-02-17 01:31:39,991 - research - INFO - Scraped data size: 0
+2025-02-17 01:31:40,095 - research - INFO - Scraped data size: 0
+2025-02-17 01:31:40,216 - research - INFO - Scraped data size: 0
+2025-02-17 01:31:40,321 - research - INFO - Scraped data size: 0
+2025-02-17 01:31:40,338 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:31:40,434 - research - INFO - Scraped data size: 0
+2025-02-17 01:31:40,452 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:31:40,473 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:31:40,495 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:31:40,517 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:31:40,540 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 01:31:40,565 - research - INFO - Research completed. Context size: 2
+2025-02-17 01:38:38,894 - research - INFO - Starting research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:38:38,964 - research - INFO - Using web search
+2025-02-17 01:38:38,972 - research - INFO - Starting web search for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:38:38,977 - research - INFO - Planning research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:38:40,128 - research - INFO - Initial search results obtained: 0 results
+2025-02-17 01:38:42,548 - research - INFO - Research outline planned: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'Growth drivers for NVIDIA beyond gaming market 2025', "Risks and challenges facing NVIDIA's growth in AI sector", 'Semiconductor market trends and competitive landscape analysis 2025']
+2025-02-17 01:38:42,550 - research - INFO - Generated sub-queries: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'Growth drivers for NVIDIA beyond gaming market 2025', "Risks and challenges facing NVIDIA's growth in AI sector", 'Semiconductor market trends and competitive landscape analysis 2025']
+2025-02-17 01:38:43,741 - research - INFO - Scraped data size: 0
+2025-02-17 01:38:43,864 - research - INFO - Scraped data size: 0
+2025-02-17 01:38:43,948 - research - INFO - Scraped data size: 0
+2025-02-17 01:38:44,008 - research - INFO - Scraped data size: 0
+2025-02-17 01:38:44,019 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:38:44,084 - research - INFO - Scraped data size: 0
+2025-02-17 01:38:44,096 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:38:44,108 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:38:44,125 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:38:44,143 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:38:44,158 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 01:38:44,170 - research - INFO - Research completed. Context size: 2
+2025-02-17 01:42:09,935 - research - INFO - Starting research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:42:09,947 - research - INFO - Using web search
+2025-02-17 01:42:09,947 - research - INFO - Starting web search for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:42:09,948 - research - INFO - Planning research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:42:11,147 - research - INFO - Initial search results obtained: 0 results
+2025-02-17 01:42:14,714 - research - INFO - Research outline planned: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'NVIDIA growth drivers AI market share 2025', 'risks to NVIDIA stock valuation semiconductor industry outlook', 'Gaming market trends and impact on NVIDIA GPU demand 2025']
+2025-02-17 01:42:14,716 - research - INFO - Generated sub-queries: ['NVIDIA Corporation (NVDA) Q4 2024 earnings results', 'NVIDIA growth drivers AI market share 2025', 'risks to NVIDIA stock valuation semiconductor industry outlook', 'Gaming market trends and impact on NVIDIA GPU demand 2025']
+2025-02-17 01:42:15,940 - research - INFO - Scraped data size: 0
+2025-02-17 01:42:16,091 - research - INFO - Scraped data size: 0
+2025-02-17 01:42:16,129 - research - INFO - Scraped data size: 0
+2025-02-17 01:42:16,174 - research - INFO - Scraped data size: 0
+2025-02-17 01:42:16,222 - research - INFO - Scraped data size: 0
+2025-02-17 01:42:16,231 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:42:16,241 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:42:16,248 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:42:16,258 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:42:16,267 - research - INFO - Content found for sub-query: 0 chars
+2025-02-17 01:42:16,277 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 01:42:16,285 - research - INFO - Research completed. Context size: 2
+2025-02-17 01:44:58,879 - research - INFO - Starting research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:44:58,903 - research - INFO - Using web search
+2025-02-17 01:44:58,904 - research - INFO - Starting web search for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:44:58,905 - research - INFO - Planning research for query: Conduct an in-depth analysis of NVIDIA Corporation (NASDAQ: NVDA) stock, covering its latest financial performance, growth drivers, risks, and market trends.
+2025-02-17 01:45:04,693 - research - INFO - Initial search results obtained: 10 results
+2025-02-17 01:45:07,050 - research - INFO - Research outline planned: ['NVDA Q4 2024 earnings report', 'Nvidia growth drivers AI market share data center', 'Risks to Nvidia stock competition from AMD DeepSeek Chinese AI', 'Future trends AI market size autonomous vehicles impact on NVDA']
+2025-02-17 01:45:07,051 - research - INFO - Generated sub-queries: ['NVDA Q4 2024 earnings report', 'Nvidia growth drivers AI market share data center', 'Risks to Nvidia stock competition from AMD DeepSeek Chinese AI', 'Future trends AI market size autonomous vehicles impact on NVDA']
+2025-02-17 01:45:09,457 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:09,457 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:09,459 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:09,461 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:09,461 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:09,974 - gpt_researcher.scraper.scraper - INFO - 
+Title: How DeepSeek AI is Disrupting US Tech and Shaking Nvidia’s Dominance
+2025-02-17 01:45:09,975 - gpt_researcher.scraper.scraper - INFO - Content length: 14955 characters
+2025-02-17 01:45:09,975 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 01:45:09,975 - gpt_researcher.scraper.scraper - INFO - URL: https://vestedfinance.com/blog/us-stocks/how-deepseek-ai-is-a-threat-to-us-tech/
+2025-02-17 01:45:09,976 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:10,458 - gpt_researcher.scraper.scraper - INFO - 
+Title: 
+    What is DeepSeek, and why is it causing Nvidia and other stocks to slump? - CBS News
+2025-02-17 01:45:10,459 - gpt_researcher.scraper.scraper - INFO - Content length: 9839 characters
+2025-02-17 01:45:10,459 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:10,460 - gpt_researcher.scraper.scraper - INFO - URL: https://www.cbsnews.com/news/what-is-deepseek-ai-china-stock-nvidia-nvda-asml/
+2025-02-17 01:45:10,460 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:10,894 - gpt_researcher.scraper.scraper - INFO - 
+Title: Fitch: DeepSeek AI Could Disrupt Nvidia's Dominance, Favor AMD and Intel
+2025-02-17 01:45:10,894 - gpt_researcher.scraper.scraper - INFO - Content length: 2807 characters
+2025-02-17 01:45:10,894 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:10,894 - gpt_researcher.scraper.scraper - INFO - URL: https://finance.yahoo.com/news/fitch-deepseek-ai-could-disrupt-191219113.html
+2025-02-17 01:45:10,895 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:10,929 - gpt_researcher.scraper.scraper - INFO - 
+Title: Nvidia shares sink as Chinese AI app DeepSeek spooks US markets
+2025-02-17 01:45:10,929 - gpt_researcher.scraper.scraper - INFO - Content length: 8062 characters
+2025-02-17 01:45:10,930 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:10,931 - gpt_researcher.scraper.scraper - INFO - URL: https://www.bbc.com/news/articles/c0qw7z2v1pgo
+2025-02-17 01:45:10,931 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:11,113 - gpt_researcher.scraper.scraper - INFO - 
+Title: Why Is DeepSeek Sinking Nvidia Stock?
+2025-02-17 01:45:11,114 - gpt_researcher.scraper.scraper - INFO - Content length: 8861 characters
+2025-02-17 01:45:11,114 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:11,115 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/greatspeculations/2025/01/27/why-deepseek-is-sinking-nvidia-stock/
+2025-02-17 01:45:11,115 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:11,136 - research - INFO - Scraped data size: 5
+2025-02-17 01:45:11,329 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:11,330 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:11,331 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:11,334 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:11,335 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:11,649 - gpt_researcher.scraper.scraper - INFO - 
+Title: Where Will Nvidia Stock Be In 5 Years?: February 2025 Edition
+2025-02-17 01:45:11,649 - gpt_researcher.scraper.scraper - INFO - Content length: 12687 characters
+2025-02-17 01:45:11,650 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:11,650 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/investor-hub/article/where-will-nvidia-nvda-stock-be-5-years/
+2025-02-17 01:45:11,651 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:11,864 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://seekingalpha.com/article/4677414-nvidia-we-were-right-about-data-center-and-ai
+2025-02-17 01:45:12,877 - gpt_researcher.scraper.scraper - INFO - 
+Title: How Nvidia is creating a $1.4T data center market in a decade of AI - SiliconANGLE
+2025-02-17 01:45:12,877 - gpt_researcher.scraper.scraper - INFO - Content length: 31387 characters
+2025-02-17 01:45:12,877 - gpt_researcher.scraper.scraper - INFO - Number of images: 9
+2025-02-17 01:45:12,878 - gpt_researcher.scraper.scraper - INFO - URL: https://siliconangle.com/2025/01/11/nvidia-creating-1-4t-data-center-market-decade-ai/
+2025-02-17 01:45:12,878 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:13,091 - gpt_researcher.scraper.scraper - INFO - 
+Title: Nvidia’s Dominance in the Data Center AI Revolution: An In-Depth Analysis | by Mind-Front | CatalystPoint | Medium
+2025-02-17 01:45:13,092 - gpt_researcher.scraper.scraper - INFO - Content length: 7565 characters
+2025-02-17 01:45:13,092 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:13,092 - gpt_researcher.scraper.scraper - INFO - URL: https://medium.com/vanguard-industry-foresight/nvidias-dominance-in-the-data-center-ai-revolution-an-in-depth-analysis-96c8bf1d5430
+2025-02-17 01:45:13,093 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:13,207 - gpt_researcher.scraper.scraper - INFO - 
+Title: 261 | Breaking Analysis | How NVIDIA is Creating a $1.4 Trillion Data Center Market in a Decade of AI - theCUBEResearch
+2025-02-17 01:45:13,207 - gpt_researcher.scraper.scraper - INFO - Content length: 31472 characters
+2025-02-17 01:45:13,207 - gpt_researcher.scraper.scraper - INFO - Number of images: 8
+2025-02-17 01:45:13,208 - gpt_researcher.scraper.scraper - INFO - URL: https://thecuberesearch.com/261-breaking-analysis-how-nvidia-is-creating-a-1-4-trillion-data-center-market-in-a-decade-of-ai/
+2025-02-17 01:45:13,208 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:13,232 - research - INFO - Scraped data size: 4
+2025-02-17 01:45:13,315 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:13,317 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:13,319 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:13,322 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:13,324 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:14,473 - gpt_researcher.scraper.scraper - INFO - 
+Title: 
+	NVIDIA  (NASDAQ:NVDA) Q4 2024 Earnings Report on 2/21/2024
+
+2025-02-17 01:45:14,474 - gpt_researcher.scraper.scraper - INFO - Content length: 59001 characters
+2025-02-17 01:45:14,474 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 01:45:14,475 - gpt_researcher.scraper.scraper - INFO - URL: https://www.marketbeat.com/earnings/reports/2024-2-21-nvidia-co-stock/
+2025-02-17 01:45:14,476 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:14,628 - gpt_researcher.scraper.scraper - INFO - 
+Title: NVIDIA Corp (NVDA) Shatters Records with Q4 and Fiscal 2024 Earnings
+2025-02-17 01:45:14,629 - gpt_researcher.scraper.scraper - INFO - Content length: 6656 characters
+2025-02-17 01:45:14,630 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:14,631 - gpt_researcher.scraper.scraper - INFO - URL: https://finance.yahoo.com/news/nvidia-corp-nvda-shatters-records-215227111.html
+2025-02-17 01:45:14,632 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:14,761 - gpt_researcher.scraper.scraper - INFO - 
+Title: NVIDIA Corporation (NASDAQ:NVDA) Q4 2024 Earnings Call Transcript
+2025-02-17 01:45:14,763 - gpt_researcher.scraper.scraper - INFO - Content length: 20672 characters
+2025-02-17 01:45:14,764 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:14,764 - gpt_researcher.scraper.scraper - INFO - URL: https://finance.yahoo.com/news/nvidia-corporation-nasdaq-nvda-q4-155841997.html
+2025-02-17 01:45:14,767 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:14,823 - gpt_researcher.scraper.scraper - INFO - 
+Title: NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2024 | NVIDIA Newsroom
+2025-02-17 01:45:14,823 - gpt_researcher.scraper.scraper - INFO - Content length: 27278 characters
+2025-02-17 01:45:14,824 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:14,824 - gpt_researcher.scraper.scraper - INFO - URL: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024
+2025-02-17 01:45:14,825 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:15,559 - gpt_researcher.scraper.scraper - INFO - 
+Title: Nvidia (NVDA) earnings report Q4 2024
+2025-02-17 01:45:15,559 - gpt_researcher.scraper.scraper - INFO - Content length: 4805 characters
+2025-02-17 01:45:15,560 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:15,560 - gpt_researcher.scraper.scraper - INFO - URL: https://www.cnbc.com/2024/02/21/nvidia-nvda-earnings-report-q4-2024.html
+2025-02-17 01:45:15,561 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:15,583 - research - INFO - Scraped data size: 5
+2025-02-17 01:45:15,679 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:15,680 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:15,681 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:15,684 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:15,685 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:16,174 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://seekingalpha.com/article/4476406-nvidias-autonomous-vehicle-opportunity
+2025-02-17 01:45:16,281 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Predictions: AI Finds a Reason to Tap Industry Data Lakes | NVIDIA Blog
+2025-02-17 01:45:16,282 - gpt_researcher.scraper.scraper - INFO - Content length: 16032 characters
+2025-02-17 01:45:16,283 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 01:45:16,283 - gpt_researcher.scraper.scraper - INFO - URL: https://blogs.nvidia.com/blog/industry-ai-predictions-2025/
+2025-02-17 01:45:16,283 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:16,963 - gpt_researcher.scraper.scraper - INFO - 
+Title: AI in Autonomous Vehicles Market Trends & Growth Analysis | Technavio
+2025-02-17 01:45:16,963 - gpt_researcher.scraper.scraper - INFO - Content length: 15101 characters
+2025-02-17 01:45:16,964 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:16,964 - gpt_researcher.scraper.scraper - INFO - URL: https://analysis.technavio.org/report/ai-autonomous-vehicles-market
+2025-02-17 01:45:16,965 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:18,921 - gpt_researcher.scraper.scraper - INFO - 
+Title: Uber and Nvidia: A New Era in Autonomous Vehicles
+2025-02-17 01:45:18,922 - gpt_researcher.scraper.scraper - INFO - Content length: 8310 characters
+2025-02-17 01:45:18,923 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 01:45:18,923 - gpt_researcher.scraper.scraper - INFO - URL: https://www.kavout.com/market-lens/uber-and-nvidia-a-new-era-in-autonomous-vehicles
+2025-02-17 01:45:18,923 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:19,453 - gpt_researcher.scraper.scraper - INFO - 
+Title: Nvidia’s Next Big Move: Better AI Chips for Autonomous Driving | Times Square Investment Journal
+2025-02-17 01:45:19,454 - gpt_researcher.scraper.scraper - INFO - Content length: 8686 characters
+2025-02-17 01:45:19,455 - gpt_researcher.scraper.scraper - INFO - Number of images: 1
+2025-02-17 01:45:19,455 - gpt_researcher.scraper.scraper - INFO - URL: https://coveringcompanies.journalism.cuny.edu/2023/11/21/nvidias-next-big-move-better-ai-chips-for-autonomous-driving/
+2025-02-17 01:45:19,455 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:24,471 - research - INFO - Scraped data size: 4
+2025-02-17 01:45:24,562 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:24,563 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:24,564 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:24,565 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:24,568 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 01:45:24,842 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://247wallst.com/forecasts/2025/02/13/nvidia-nvda-price-prediction-and-forecast/
+2025-02-17 01:45:24,999 - gpt_researcher.scraper.scraper - INFO - 
+Title: Nvidia Stock Price Prediction: 2025, 2026, 2030 - Benzinga
+2025-02-17 01:45:25,000 - gpt_researcher.scraper.scraper - INFO - Content length: 8504 characters
+2025-02-17 01:45:25,000 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:25,001 - gpt_researcher.scraper.scraper - INFO - URL: https://www.benzinga.com/money/nvidia-stock-price-prediction
+2025-02-17 01:45:25,001 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:25,387 - gpt_researcher.scraper.scraper - INFO - 
+Title: NVIDIA Corporation (NVDA) Stock Forecast & Price Targets - Stock Analysis
+2025-02-17 01:45:25,388 - gpt_researcher.scraper.scraper - INFO - Content length: 3777 characters
+2025-02-17 01:45:25,388 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:25,389 - gpt_researcher.scraper.scraper - INFO - URL: https://stockanalysis.com/stocks/nvda/forecast/
+2025-02-17 01:45:25,389 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:25,448 - gpt_researcher.scraper.scraper - INFO - 
+Title: 
+	NVIDIA (NVDA) Stock Forecast and Price Target 2025
+
+2025-02-17 01:45:25,448 - gpt_researcher.scraper.scraper - INFO - Content length: 22811 characters
+2025-02-17 01:45:25,449 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:25,449 - gpt_researcher.scraper.scraper - INFO - URL: https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast/
+2025-02-17 01:45:25,450 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:26,036 - gpt_researcher.scraper.scraper - INFO - 
+Title: NVIDIA STOCK PRICE PREDICTION 2025, 2026, 2027-2029 - Long Forecast
+2025-02-17 01:45:26,038 - gpt_researcher.scraper.scraper - INFO - Content length: 13009 characters
+2025-02-17 01:45:26,038 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 01:45:26,039 - gpt_researcher.scraper.scraper - INFO - URL: https://longforecast.com/nvidia
+2025-02-17 01:45:26,039 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 01:45:26,068 - research - INFO - Scraped data size: 4
+2025-02-17 01:45:26,090 - research - INFO - Content found for sub-query: 10355 chars
+2025-02-17 01:45:26,106 - research - INFO - Content found for sub-query: 11191 chars
+2025-02-17 01:45:26,128 - research - INFO - Content found for sub-query: 11036 chars
+2025-02-17 01:45:28,174 - research - INFO - Content found for sub-query: 9570 chars
+2025-02-17 01:45:28,893 - research - INFO - Content found for sub-query: 10362 chars
+2025-02-17 01:45:28,921 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 01:45:28,921 - research - INFO - Combined context size: 52518
+2025-02-17 01:45:28,939 - research - INFO - Research completed. Context size: 52518
+2025-02-17 03:07:36,459 - research - INFO - Starting research for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:07:36,545 - research - INFO - Using web search
+2025-02-17 03:07:36,548 - research - INFO - Starting web search for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:07:36,548 - research - INFO - Planning research for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:07:42,264 - research - INFO - Initial search results obtained: 10 results
+2025-02-17 03:07:46,049 - research - INFO - Research outline planned: ['best super bowl 2025 ad campaign analysis effectiveness', 'most successful super bowl 2025 ad strategies ROI metrics', 'super bowl 2025 advertising trends consumer engagement data', 'case studies successful super bowl 2025 ad campaigns brand lift']
+2025-02-17 03:07:46,049 - research - INFO - Generated sub-queries: ['best super bowl 2025 ad campaign analysis effectiveness', 'most successful super bowl 2025 ad strategies ROI metrics', 'super bowl 2025 advertising trends consumer engagement data', 'case studies successful super bowl 2025 ad campaigns brand lift']
+2025-02-17 03:07:48,968 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:48,970 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:48,978 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:48,984 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:48,991 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:49,404 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.ipsos.com/en-us/ipsos-reveals-super-bowls-best-ads-2025
+2025-02-17 03:07:49,569 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Guide (2025): Strategies & Stats | KORTX
+2025-02-17 03:07:49,574 - gpt_researcher.scraper.scraper - INFO - Content length: 13401 characters
+2025-02-17 03:07:49,574 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 03:07:49,575 - gpt_researcher.scraper.scraper - INFO - URL: https://kortx.io/news/super-bowl-advertising/
+2025-02-17 03:07:49,575 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:49,694 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Commercials 2025: How Brands Are Maximizing $7M Per Ad
+2025-02-17 03:07:49,695 - gpt_researcher.scraper.scraper - INFO - Content length: 7600 characters
+2025-02-17 03:07:49,695 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:49,696 - gpt_researcher.scraper.scraper - INFO - URL: https://www.flowcode.com/blog/super-bowl-commercials-2025-how-advertisers-are-maximizing-7-million-per-30-second-spot
+2025-02-17 03:07:49,696 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:50,472 - gpt_researcher.scraper.scraper - INFO - 
+Title: Analyzing 2025 Super Bowl Ad Performance
+2025-02-17 03:07:50,474 - gpt_researcher.scraper.scraper - INFO - Content length: 7919 characters
+2025-02-17 03:07:50,475 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:07:50,475 - gpt_researcher.scraper.scraper - INFO - URL: https://www.infegy.com/insight-brief/2025-superbowl-ad-performance
+2025-02-17 03:07:50,476 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:50,529 - gpt_researcher.scraper.scraper - INFO - 
+Title: The 10 best Super Bowl ads of 2025 - Insights to Activate: Super Bowl
+2025-02-17 03:07:50,531 - gpt_researcher.scraper.scraper - INFO - Content length: 8546 characters
+2025-02-17 03:07:50,532 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:50,532 - gpt_researcher.scraper.scraper - INFO - URL: https://ipsos-insight-llc.foleon.com/ipsos-insights-to-activate/super-bowl/the-10-best-super-bowl-ads-of-2025
+2025-02-17 03:07:50,533 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:50,599 - research - INFO - Scraped data size: 4
+2025-02-17 03:07:50,994 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:50,995 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:50,997 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:51,000 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:53,524 - gpt_researcher.scraper.scraper - INFO - 
+Title: Best Super Bowl 2025 commercials: Full USA TODAY Ad meter rankings
+2025-02-17 03:07:53,526 - gpt_researcher.scraper.scraper - INFO - Content length: 3811 characters
+2025-02-17 03:07:53,527 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:53,528 - gpt_researcher.scraper.scraper - INFO - URL: https://www.usatoday.com/story/sports/ad-meter/2025/02/10/best-super-bowl-2025-commercials-ad-meter-ranking/78380832007/
+2025-02-17 03:07:53,529 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:53,609 - gpt_researcher.scraper.scraper - INFO - 
+Title: The 5 Most Effective Super Bowl Ads Of 2025
+2025-02-17 03:07:53,611 - gpt_researcher.scraper.scraper - INFO - Content length: 12163 characters
+2025-02-17 03:07:53,612 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:53,612 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/charlesrtaylor/2025/02/11/the-5-most-effective-super-bowl-ads-of-2025/
+2025-02-17 03:07:53,613 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:53,635 - gpt_researcher.scraper.scraper - INFO - 
+Title: These Are The 10 Best Super Bowl 2025 Ads, According To Experts
+2025-02-17 03:07:53,638 - gpt_researcher.scraper.scraper - INFO - Content length: 11146 characters
+2025-02-17 03:07:53,638 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:53,641 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/tonifitzgerald/2025/02/09/these-are-the-10-best-super-bowl-2025-ads-according-to-experts/
+2025-02-17 03:07:53,642 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:53,677 - gpt_researcher.scraper.scraper - INFO - 
+Title: Ipsos Reveals the Super Bowl's Best Ads of 2025 | Morningstar
+2025-02-17 03:07:53,678 - gpt_researcher.scraper.scraper - INFO - Content length: 10789 characters
+2025-02-17 03:07:53,679 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:53,680 - gpt_researcher.scraper.scraper - INFO - URL: https://www.morningstar.com/news/pr-newswire/20250210ny15673/ipsos-reveals-the-super-bowls-best-ads-of-2025
+2025-02-17 03:07:53,682 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:53,753 - research - INFO - Scraped data size: 4
+2025-02-17 03:07:53,927 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:53,929 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:53,932 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:53,937 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:54,275 - gpt_researcher.scraper.scraper - INFO - 
+Title: Representation Is The MVP Of Super Bowl Advertising
+2025-02-17 03:07:54,277 - gpt_researcher.scraper.scraper - INFO - Content length: 9619 characters
+2025-02-17 03:07:54,278 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:54,281 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/shelleyzalis/2025/02/12/representation-is-the-mvp-of-super-bowl-advertising/
+2025-02-17 03:07:54,284 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:54,465 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Strategy with First-Party Data 2025
+2025-02-17 03:07:54,467 - gpt_researcher.scraper.scraper - INFO - Content length: 14951 characters
+2025-02-17 03:07:54,467 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:07:54,468 - gpt_researcher.scraper.scraper - INFO - URL: https://www.customerlabs.com/blog/super-bowl-marketing-strategy/
+2025-02-17 03:07:54,468 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:55,734 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Super Bowl Marketing Strategy: Get Your Game Plan
+2025-02-17 03:07:55,739 - gpt_researcher.scraper.scraper - INFO - Content length: 9416 characters
+2025-02-17 03:07:55,740 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:55,742 - gpt_researcher.scraper.scraper - INFO - URL: https://www.onlineoptimism.com/blog/super-bowl-marketing-strategy/
+2025-02-17 03:07:55,745 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:56,022 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Strategy 2025: A Case Study – Latterly.org
+2025-02-17 03:07:56,023 - gpt_researcher.scraper.scraper - INFO - Content length: 25999 characters
+2025-02-17 03:07:56,025 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:56,025 - gpt_researcher.scraper.scraper - INFO - URL: https://www.latterly.org/super-bowl-marketing-strategy/
+2025-02-17 03:07:56,026 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:56,088 - research - INFO - Scraped data size: 4
+2025-02-17 03:07:56,375 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:56,379 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:56,384 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:56,387 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:07:57,327 - gpt_researcher.scraper.scraper - INFO - 
+Title: Campaign Trends: Super Bowl 2025 | WGSN
+2025-02-17 03:07:57,327 - gpt_researcher.scraper.scraper - INFO - Content length: 4575 characters
+2025-02-17 03:07:57,329 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:07:57,333 - gpt_researcher.scraper.scraper - INFO - URL: https://www.wgsn.com/en/blogs/campaign-trends-super-bowl-2025
+2025-02-17 03:07:57,335 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:57,714 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl 2025 Advertising Trends & Performance Analysis | Northbeam Blog
+2025-02-17 03:07:57,715 - gpt_researcher.scraper.scraper - INFO - Content length: 372125 characters
+2025-02-17 03:07:57,716 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:57,717 - gpt_researcher.scraper.scraper - INFO - URL: https://www.northbeam.io/post/super-bowl-2025-advertising-trends-performance-analysis
+2025-02-17 03:07:57,718 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:59,308 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl 2025 Data - Marketing Charts
+2025-02-17 03:07:59,310 - gpt_researcher.scraper.scraper - INFO - Content length: 7894 characters
+2025-02-17 03:07:59,312 - gpt_researcher.scraper.scraper - INFO - Number of images: 1
+2025-02-17 03:07:59,313 - gpt_researcher.scraper.scraper - INFO - URL: https://www.marketingcharts.com/television-234849
+2025-02-17 03:07:59,315 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:59,545 - gpt_researcher.scraper.scraper - INFO - 
+Title: Post | InsightTrendsWorld
+2025-02-17 03:07:59,547 - gpt_researcher.scraper.scraper - INFO - Content length: 155 characters
+2025-02-17 03:07:59,548 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:07:59,549 - gpt_researcher.scraper.scraper - INFO - URL: https://www.insighttrendsworld.com/post/insight-of-the-day-2025-super-bowl-consumer-data-report
+2025-02-17 03:07:59,550 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:07:59,684 - research - INFO - Scraped data size: 4
+2025-02-17 03:08:00,358 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:08:00,388 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:08:01,395 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl 2025’s Ad Recap: The Winners, The Weird, and The WTF | The Big Smoke | Super Bowl 2025 best ads
+2025-02-17 03:08:01,396 - gpt_researcher.scraper.scraper - INFO - Content length: 8313 characters
+2025-02-17 03:08:01,398 - gpt_researcher.scraper.scraper - INFO - Number of images: 5
+2025-02-17 03:08:01,398 - gpt_researcher.scraper.scraper - INFO - URL: https://thebigsmoke.com/insights/super-bowl-2025-best-ads/
+2025-02-17 03:08:01,399 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:08:01,770 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Ads 2025 Marketing Strategy and Insights | Alison.ai
+2025-02-17 03:08:01,771 - gpt_researcher.scraper.scraper - INFO - Content length: 10681 characters
+2025-02-17 03:08:01,774 - gpt_researcher.scraper.scraper - INFO - Number of images: 3
+2025-02-17 03:08:01,774 - gpt_researcher.scraper.scraper - INFO - URL: https://alison.ai/blog/super-bowl-ads-2025
+2025-02-17 03:08:01,776 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:08:01,865 - research - INFO - Scraped data size: 2
+2025-02-17 03:08:01,911 - research - INFO - Content found for sub-query: 10566 chars
+2025-02-17 03:08:01,978 - research - INFO - Content found for sub-query: 10659 chars
+2025-02-17 03:08:02,106 - research - INFO - Content found for sub-query: 10467 chars
+2025-02-17 03:08:03,918 - research - INFO - Content found for sub-query: 10075 chars
+2025-02-17 03:08:22,315 - research - INFO - Content found for sub-query: 10903 chars
+2025-02-17 03:08:22,368 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 03:08:22,369 - research - INFO - Combined context size: 52674
+2025-02-17 03:08:22,409 - research - INFO - Research completed. Context size: 52674
+2025-02-17 03:16:16,286 - research - INFO - Starting research for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:16:16,298 - research - INFO - Using web search
+2025-02-17 03:16:16,298 - research - INFO - Starting web search for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:16:16,298 - research - INFO - Planning research for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:16:19,034 - research - INFO - Initial search results obtained: 10 results
+2025-02-17 03:16:22,743 - research - INFO - Research outline planned: ['best Super Bowl 2025 ad campaign analysis ROI', 'most effective Super Bowl 2025 ad strategies consumer engagement data', 'Super Bowl 2025 advertising success metrics case studies', 'impact of celebrity endorsements Super Bowl 2025 ad effectiveness']
+2025-02-17 03:16:22,744 - research - INFO - Generated sub-queries: ['best Super Bowl 2025 ad campaign analysis ROI', 'most effective Super Bowl 2025 ad strategies consumer engagement data', 'Super Bowl 2025 advertising success metrics case studies', 'impact of celebrity endorsements Super Bowl 2025 ad effectiveness']
+2025-02-17 03:16:25,295 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:25,296 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:25,298 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:25,299 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:25,301 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:25,554 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Guide (2025): Strategies & Stats | KORTX
+2025-02-17 03:16:25,554 - gpt_researcher.scraper.scraper - INFO - Content length: 13401 characters
+2025-02-17 03:16:25,555 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 03:16:25,555 - gpt_researcher.scraper.scraper - INFO - URL: https://kortx.io/news/super-bowl-advertising/
+2025-02-17 03:16:25,555 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:25,867 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Strategy with First-Party Data 2025
+2025-02-17 03:16:25,868 - gpt_researcher.scraper.scraper - INFO - Content length: 14951 characters
+2025-02-17 03:16:25,869 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:16:25,869 - gpt_researcher.scraper.scraper - INFO - URL: https://www.customerlabs.com/blog/super-bowl-marketing-strategy/
+2025-02-17 03:16:25,870 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:25,986 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Super Bowl Marketing Strategy: Get Your Game Plan
+2025-02-17 03:16:25,987 - gpt_researcher.scraper.scraper - INFO - Content length: 9416 characters
+2025-02-17 03:16:25,987 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:25,988 - gpt_researcher.scraper.scraper - INFO - URL: https://www.onlineoptimism.com/blog/super-bowl-marketing-strategy/
+2025-02-17 03:16:25,988 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:27,170 - gpt_researcher.scraper.scraper - INFO - 
+Title: Representation Is The MVP Of Super Bowl Advertising
+2025-02-17 03:16:27,170 - gpt_researcher.scraper.scraper - INFO - Content length: 9725 characters
+2025-02-17 03:16:27,171 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:27,172 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/shelleyzalis/2025/02/12/representation-is-the-mvp-of-super-bowl-advertising/
+2025-02-17 03:16:27,172 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:28,296 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Strategy 2025: A Case Study – Latterly.org
+2025-02-17 03:16:28,297 - gpt_researcher.scraper.scraper - INFO - Content length: 25999 characters
+2025-02-17 03:16:28,298 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:28,299 - gpt_researcher.scraper.scraper - INFO - URL: https://www.latterly.org/super-bowl-marketing-strategy/
+2025-02-17 03:16:28,299 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:28,360 - research - INFO - Scraped data size: 5
+2025-02-17 03:16:28,523 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:28,524 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:28,525 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:28,527 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:29,411 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Super Bowl Advertisers Success Stories - Video Advertising Bureau
+2025-02-17 03:16:29,414 - gpt_researcher.scraper.scraper - INFO - Content length: 1983 characters
+2025-02-17 03:16:29,416 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:29,416 - gpt_researcher.scraper.scraper - INFO - URL: https://thevab.com/insight/super-bowl-2025
+2025-02-17 03:16:29,417 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:29,550 - gpt_researcher.scraper.scraper - INFO - 
+Title: Analyzing 2025 Super Bowl Ad Performance
+2025-02-17 03:16:29,551 - gpt_researcher.scraper.scraper - INFO - Content length: 7919 characters
+2025-02-17 03:16:29,552 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:16:29,554 - gpt_researcher.scraper.scraper - INFO - URL: https://www.infegy.com/insight-brief/2025-superbowl-ad-performance
+2025-02-17 03:16:29,556 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:29,808 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl 2025 Advertising Trends & Performance Analysis | Northbeam Blog
+2025-02-17 03:16:29,809 - gpt_researcher.scraper.scraper - INFO - Content length: 372125 characters
+2025-02-17 03:16:29,809 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:29,810 - gpt_researcher.scraper.scraper - INFO - URL: https://www.northbeam.io/post/super-bowl-2025-advertising-trends-performance-analysis
+2025-02-17 03:16:29,811 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:30,040 - gpt_researcher.scraper.scraper - INFO - 
+Title: Brand Bowl 2025 - Harris Poll
+2025-02-17 03:16:30,040 - gpt_researcher.scraper.scraper - INFO - Content length: 2106 characters
+2025-02-17 03:16:30,041 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:30,043 - gpt_researcher.scraper.scraper - INFO - URL: https://theharrispoll.com/insights-news/reports/sports-and-events-brand-sponsorships/brand-bowl-2025/
+2025-02-17 03:16:30,043 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:30,114 - research - INFO - Scraped data size: 4
+2025-02-17 03:16:30,474 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:30,477 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:30,480 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:30,679 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.ipsos.com/en-us/ipsos-reveals-super-bowls-best-ads-2025
+2025-02-17 03:16:30,777 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.marketwatch.com/press-release/ipsos-reveals-the-super-bowl-s-best-ads-of-2025-f6ed2c72
+2025-02-17 03:16:32,625 - gpt_researcher.scraper.scraper - INFO - 
+Title: Ipsos Reveals the Super Bowl's Best Ads of 2025 | Morningstar
+2025-02-17 03:16:32,626 - gpt_researcher.scraper.scraper - INFO - Content length: 10789 characters
+2025-02-17 03:16:32,626 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:32,626 - gpt_researcher.scraper.scraper - INFO - URL: https://www.morningstar.com/news/pr-newswire/20250210ny15673/ipsos-reveals-the-super-bowls-best-ads-of-2025
+2025-02-17 03:16:32,627 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:32,712 - research - INFO - Scraped data size: 1
+2025-02-17 03:16:33,048 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:33,054 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:33,056 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:34,918 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Super Bowl Ads Trends, Including Notable Shifts In Representation
+2025-02-17 03:16:34,919 - gpt_researcher.scraper.scraper - INFO - Content length: 5828 characters
+2025-02-17 03:16:34,920 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:34,920 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/soniathompson/2025/02/13/2025-super-bowl-ads-trends-including-notable-shifts-in-representation/
+2025-02-17 03:16:34,921 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:35,112 - gpt_researcher.scraper.scraper - INFO - 
+Title: Breaking Down the Super Bowl Ad Playbook – Darden Report Online
+2025-02-17 03:16:35,113 - gpt_researcher.scraper.scraper - INFO - Content length: 6789 characters
+2025-02-17 03:16:35,113 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:35,114 - gpt_researcher.scraper.scraper - INFO - URL: https://news.darden.virginia.edu/2025/02/10/breaking-down-the-super-bowl-ad-playbook/
+2025-02-17 03:16:35,115 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:38,074 - gpt_researcher.scraper.scraper - INFO - 
+Title: U.S. celebrity Super Bowl endorsement impact 2025 | Statista
+2025-02-17 03:16:38,075 - gpt_researcher.scraper.scraper - INFO - Content length: 10804 characters
+2025-02-17 03:16:38,077 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:38,077 - gpt_researcher.scraper.scraper - INFO - URL: https://www.statista.com/statistics/1553832/celebrity-super-bowl-endorsement-impact-purchase-decisions-us/
+2025-02-17 03:16:38,078 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:38,141 - research - INFO - Scraped data size: 3
+2025-02-17 03:16:38,304 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:38,306 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:38,309 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:38,314 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:16:38,513 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.ipsos.com/en-us/super-bowls-best-ads-2025
+2025-02-17 03:16:39,031 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Commercials 2025: How Brands Are Maximizing $7M Per Ad
+2025-02-17 03:16:39,033 - gpt_researcher.scraper.scraper - INFO - Content length: 7600 characters
+2025-02-17 03:16:39,034 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:16:39,035 - gpt_researcher.scraper.scraper - INFO - URL: https://www.flowcode.com/blog/super-bowl-commercials-2025-how-advertisers-are-maximizing-7-million-per-30-second-spot
+2025-02-17 03:16:39,036 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:39,589 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Ads 2025 Marketing Strategy and Insights | Alison.ai
+2025-02-17 03:16:39,590 - gpt_researcher.scraper.scraper - INFO - Content length: 10681 characters
+2025-02-17 03:16:39,592 - gpt_researcher.scraper.scraper - INFO - Number of images: 3
+2025-02-17 03:16:39,594 - gpt_researcher.scraper.scraper - INFO - URL: https://alison.ai/blog/super-bowl-ads-2025
+2025-02-17 03:16:39,595 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:39,974 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl LIX: Analyzing the game’s advertising and engagement data | Marketing Dive
+2025-02-17 03:16:39,975 - gpt_researcher.scraper.scraper - INFO - Content length: 4844 characters
+2025-02-17 03:16:39,976 - gpt_researcher.scraper.scraper - INFO - Number of images: 1
+2025-02-17 03:16:39,976 - gpt_researcher.scraper.scraper - INFO - URL: https://www.marketingdive.com/news/super-bowl-lix-advertisement-engagement-data/732443/
+2025-02-17 03:16:39,977 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:16:40,055 - research - INFO - Scraped data size: 3
+2025-02-17 03:16:40,099 - research - INFO - Content found for sub-query: 10809 chars
+2025-02-17 03:16:40,152 - research - INFO - Content found for sub-query: 10467 chars
+2025-02-17 03:16:40,202 - research - INFO - Content found for sub-query: 10537 chars
+2025-02-17 03:16:41,903 - research - INFO - Content found for sub-query: 11046 chars
+2025-02-17 03:16:54,702 - research - INFO - Content found for sub-query: 10693 chars
+2025-02-17 03:16:54,732 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 03:16:54,733 - research - INFO - Combined context size: 53556
+2025-02-17 03:16:54,759 - research - INFO - Research completed. Context size: 53556
+2025-02-17 03:31:23,401 - research - INFO - Starting research for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:31:23,419 - research - INFO - Using web search
+2025-02-17 03:31:23,421 - research - INFO - Starting web search for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:31:23,422 - research - INFO - Planning research for query: what's the best strategy for advertising at the super bowl based on learnings from 2025?
+2025-02-17 03:31:26,009 - research - INFO - Initial search results obtained: 10 results
+2025-02-17 03:31:28,256 - research - INFO - Research outline planned: ['Super Bowl 2025 ad campaign effectiveness analysis', 'best performing Super Bowl 2025 ad strategies case studies', 'impact of celebrity endorsements Super Bowl 2025 ad campaigns ROI', 'Super Bowl 2025 ad engagement and social media analysis best practices']
+2025-02-17 03:31:28,257 - research - INFO - Generated sub-queries: ['Super Bowl 2025 ad campaign effectiveness analysis', 'best performing Super Bowl 2025 ad strategies case studies', 'impact of celebrity endorsements Super Bowl 2025 ad campaigns ROI', 'Super Bowl 2025 ad engagement and social media analysis best practices']
+2025-02-17 03:31:31,148 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:31,149 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:31,152 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:31,155 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:31,159 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:31,706 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Strategy 2025: A Case Study – Latterly.org
+2025-02-17 03:31:31,707 - gpt_researcher.scraper.scraper - INFO - Content length: 25999 characters
+2025-02-17 03:31:31,707 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:31,708 - gpt_researcher.scraper.scraper - INFO - URL: https://www.latterly.org/super-bowl-marketing-strategy/
+2025-02-17 03:31:31,708 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:31,860 - gpt_researcher.scraper.scraper - INFO - 
+Title: Analyzing 2025 Super Bowl Ad Performance
+2025-02-17 03:31:31,861 - gpt_researcher.scraper.scraper - INFO - Content length: 7919 characters
+2025-02-17 03:31:31,861 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:31:31,863 - gpt_researcher.scraper.scraper - INFO - URL: https://www.infegy.com/insight-brief/2025-superbowl-ad-performance
+2025-02-17 03:31:31,864 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:32,376 - gpt_researcher.scraper.scraper - INFO - 
+Title: The Marketing Strategies of Top 3 Most Effective Super Bowl 2025 Ads: A Case Study - YouTube
+2025-02-17 03:31:32,376 - gpt_researcher.scraper.scraper - INFO - Content length: 238 characters
+2025-02-17 03:31:32,377 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:32,378 - gpt_researcher.scraper.scraper - INFO - URL: https://www.youtube.com/watch?v=smUdwZbQqbk
+2025-02-17 03:31:32,379 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:32,535 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl 2025 Advertising Trends & Performance Analysis | Northbeam Blog
+2025-02-17 03:31:32,536 - gpt_researcher.scraper.scraper - INFO - Content length: 372125 characters
+2025-02-17 03:31:32,537 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:32,537 - gpt_researcher.scraper.scraper - INFO - URL: https://www.northbeam.io/post/super-bowl-2025-advertising-trends-performance-analysis
+2025-02-17 03:31:32,538 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:32,924 - gpt_researcher.scraper.scraper - INFO - 
+Title: These Are The 10 Best Super Bowl 2025 Ads, According To Experts
+2025-02-17 03:31:32,924 - gpt_researcher.scraper.scraper - INFO - Content length: 11146 characters
+2025-02-17 03:31:32,926 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:32,926 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/tonifitzgerald/2025/02/09/these-are-the-10-best-super-bowl-2025-ads-according-to-experts/
+2025-02-17 03:31:32,927 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:32,993 - research - INFO - Scraped data size: 5
+2025-02-17 03:31:33,616 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:33,619 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:33,621 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:33,624 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:33,866 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Guide (2025): Strategies & Stats | KORTX
+2025-02-17 03:31:33,867 - gpt_researcher.scraper.scraper - INFO - Content length: 13401 characters
+2025-02-17 03:31:33,867 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 03:31:33,869 - gpt_researcher.scraper.scraper - INFO - URL: https://kortx.io/news/super-bowl-advertising/
+2025-02-17 03:31:33,869 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:34,074 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Marketing Strategy with First-Party Data 2025
+2025-02-17 03:31:34,074 - gpt_researcher.scraper.scraper - INFO - Content length: 14951 characters
+2025-02-17 03:31:34,075 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 03:31:34,076 - gpt_researcher.scraper.scraper - INFO - URL: https://www.customerlabs.com/blog/super-bowl-marketing-strategy/
+2025-02-17 03:31:34,076 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:34,386 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Super Bowl Marketing Strategy: Get Your Game Plan
+2025-02-17 03:31:34,387 - gpt_researcher.scraper.scraper - INFO - Content length: 9416 characters
+2025-02-17 03:31:34,388 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:34,388 - gpt_researcher.scraper.scraper - INFO - URL: https://www.onlineoptimism.com/blog/super-bowl-marketing-strategy/
+2025-02-17 03:31:34,389 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:35,054 - gpt_researcher.scraper.scraper - INFO - 
+Title: Representation Is The MVP Of Super Bowl Advertising
+2025-02-17 03:31:35,055 - gpt_researcher.scraper.scraper - INFO - Content length: 9725 characters
+2025-02-17 03:31:35,056 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:35,056 - gpt_researcher.scraper.scraper - INFO - URL: https://www.forbes.com/sites/shelleyzalis/2025/02/12/representation-is-the-mvp-of-super-bowl-advertising/
+2025-02-17 03:31:35,056 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:35,094 - research - INFO - Scraped data size: 4
+2025-02-17 03:31:35,189 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:35,191 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:35,192 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:36,739 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl LIX Social Media Analysis
+2025-02-17 03:31:36,741 - gpt_researcher.scraper.scraper - INFO - Content length: 5289 characters
+2025-02-17 03:31:36,742 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:36,742 - gpt_researcher.scraper.scraper - INFO - URL: https://metricool.com/super-bowl-lix-social-media-analysis/
+2025-02-17 03:31:36,743 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:36,751 - gpt_researcher.scraper.scraper - INFO - 
+Title: Just a moment... | Gartner
+2025-02-17 03:31:36,752 - gpt_researcher.scraper.scraper - INFO - Content length: 188 characters
+2025-02-17 03:31:36,753 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:36,753 - gpt_researcher.scraper.scraper - INFO - URL: https://www.gartner.com/en/newsroom/press-releases/2025-01-30-ai-social-media-and-nostalgia-influence-super-bowl-advertising-in-2025
+2025-02-17 03:31:36,754 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:39,531 - gpt_researcher.scraper.scraper - INFO - 
+Title: The BIG Game 2025: The Social Media Play-by-Play
+2025-02-17 03:31:39,532 - gpt_researcher.scraper.scraper - INFO - Content length: 7431 characters
+2025-02-17 03:31:39,533 - gpt_researcher.scraper.scraper - INFO - Number of images: 3
+2025-02-17 03:31:39,534 - gpt_researcher.scraper.scraper - INFO - URL: https://blog.digimind.com/en/insight-driven-marketing/super-bowl-2025
+2025-02-17 03:31:39,534 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:39,643 - research - INFO - Scraped data size: 3
+2025-02-17 03:31:39,802 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:39,805 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:39,809 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:40,059 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.ipsos.com/en-us/ipsos-reveals-super-bowls-best-ads-2025
+2025-02-17 03:31:40,538 - gpt_researcher.scraper.scraper - INFO - 
+Title: 2025 Super Bowl Advertisers Success Stories - Video Advertising Bureau
+2025-02-17 03:31:40,539 - gpt_researcher.scraper.scraper - INFO - Content length: 1983 characters
+2025-02-17 03:31:40,540 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:40,541 - gpt_researcher.scraper.scraper - INFO - URL: https://thevab.com/insight/super-bowl-2025
+2025-02-17 03:31:40,542 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:41,595 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl 2025: The ads that stole the show - Accord Marketing
+2025-02-17 03:31:41,596 - gpt_researcher.scraper.scraper - INFO - Content length: 10403 characters
+2025-02-17 03:31:41,597 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:41,598 - gpt_researcher.scraper.scraper - INFO - URL: https://www.accordmarketing.com/insights/super-bowl-2025-the-ads-that-stole-the-show
+2025-02-17 03:31:41,598 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:41,678 - research - INFO - Scraped data size: 2
+2025-02-17 03:31:41,859 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:41,860 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:41,862 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 03:31:43,451 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Ads 2025: Marketing Strategies & AI’s Role in Advertising – HNR Studio
+2025-02-17 03:31:43,452 - gpt_researcher.scraper.scraper - INFO - Content length: 3248 characters
+2025-02-17 03:31:43,453 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 03:31:43,453 - gpt_researcher.scraper.scraper - INFO - URL: https://studio.hotelnewsresource.com/video/super-bowl-ads-2025-marketing-strategies-ais-role-in-advertising/
+2025-02-17 03:31:43,454 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:43,632 - gpt_researcher.scraper.scraper - INFO - 
+Title: Super Bowl Ads and ROI: How Testing and Insights Deliver Long-Term Wins | Suzy  Insights On-Demand
+2025-02-17 03:31:43,632 - gpt_researcher.scraper.scraper - INFO - Content length: 6842 characters
+2025-02-17 03:31:43,633 - gpt_researcher.scraper.scraper - INFO - Number of images: 1
+2025-02-17 03:31:43,633 - gpt_researcher.scraper.scraper - INFO - URL: https://suzy.com/blog/super-bowl-ads-measuring-roi
+2025-02-17 03:31:43,634 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 03:31:46,108 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.businesswire.com/news/home/20250210733875/en/Super-Bowl-Ads-Shift-from-Stars-to-Stories-and-Humor-Wins-Big/
+2025-02-17 03:31:46,245 - research - INFO - Scraped data size: 2
+2025-02-17 03:31:46,287 - research - INFO - Content found for sub-query: 9851 chars
+2025-02-17 03:31:46,318 - research - INFO - Content found for sub-query: 9763 chars
+2025-02-17 03:31:46,349 - research - INFO - Content found for sub-query: 10298 chars
+2025-02-17 03:31:47,680 - research - INFO - Content found for sub-query: 9141 chars
+2025-02-17 03:31:56,419 - research - INFO - Content found for sub-query: 10215 chars
+2025-02-17 03:31:56,481 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 03:31:56,483 - research - INFO - Combined context size: 49272
+2025-02-17 03:31:56,529 - research - INFO - Research completed. Context size: 49272
+2025-02-17 17:32:01,690 - research - INFO - Using web search
+2025-02-17 17:32:08,061 - research - INFO - Initial search results obtained: 10 results
+2025-02-17 17:32:11,804 - research - INFO - Research outline planned: ['NGO grocery prices India', 'Blinkit Jiomart Amazon Fresh rice flour sugar oil milk prices February 2025', 'compare grocery prices across online platforms India "Blinkit" "Jiomart" "Amazon Fresh"', 'cheapest grocery delivery India "rice" "flour" "sugar" "oil" "milk"']
+2025-02-17 17:32:11,805 - research - INFO - Generated sub-queries: ['NGO grocery prices India', 'Blinkit Jiomart Amazon Fresh rice flour sugar oil milk prices February 2025', 'compare grocery prices across online platforms India "Blinkit" "Jiomart" "Amazon Fresh"', 'cheapest grocery delivery India "rice" "flour" "sugar" "oil" "milk"']
+2025-02-17 17:32:14,276 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:14,276 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:14,278 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:14,278 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:14,280 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:14,927 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.sakalrelieffund.com/blog/ngo-for-food-donation/
+2025-02-17 17:32:15,141 - gpt_researcher.scraper.scraper - INFO - 
+Title: Grocery Price, Grocery Price List in India | Priceo
+2025-02-17 17:32:15,142 - gpt_researcher.scraper.scraper - INFO - Content length: 3691 characters
+2025-02-17 17:32:15,142 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:15,143 - gpt_researcher.scraper.scraper - INFO - URL: https://india.priceo.in/price/grocery/
+2025-02-17 17:32:15,143 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:16,009 - gpt_researcher.scraper.scraper - INFO - 
+Title: NGO for Grocery Donation in Delhi | Free Food Distribution
+2025-02-17 17:32:16,010 - gpt_researcher.scraper.scraper - INFO - Content length: 4165 characters
+2025-02-17 17:32:16,010 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:16,010 - gpt_researcher.scraper.scraper - INFO - URL: https://www.epfngo.org/ngo-for-grocery-donation/
+2025-02-17 17:32:16,011 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:16,179 - gpt_researcher.scraper.scraper - INFO - 
+Title: 12 top food donation organizations and NGOs in India - AZ Big Media
+2025-02-17 17:32:16,180 - gpt_researcher.scraper.scraper - INFO - Content length: 13330 characters
+2025-02-17 17:32:16,180 - gpt_researcher.scraper.scraper - INFO - Number of images: 2
+2025-02-17 17:32:16,180 - gpt_researcher.scraper.scraper - INFO - URL: https://azbigmedia.com/business/food-donation/
+2025-02-17 17:32:16,181 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:16,960 - gpt_researcher.scraper.scraper - INFO - 
+Title: What Are the NGO Organizations in India Doing to Address Food Insecurity? - Sankesh Foundation
+2025-02-17 17:32:16,961 - gpt_researcher.scraper.scraper - INFO - Content length: 8764 characters
+2025-02-17 17:32:16,961 - gpt_researcher.scraper.scraper - INFO - Number of images: 1
+2025-02-17 17:32:16,961 - gpt_researcher.scraper.scraper - INFO - URL: https://sankeshfoundation.org/ngo-organizations-in-india-doing-to-address-food-insecurity/
+2025-02-17 17:32:16,962 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:17,000 - research - INFO - Scraped data size: 4
+2025-02-17 17:32:22,072 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:23,859 - gpt_researcher.scraper.scraper - INFO - 
+Title: Google Search
+2025-02-17 17:32:23,860 - gpt_researcher.scraper.scraper - INFO - Content length: 168 characters
+2025-02-17 17:32:23,860 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:23,861 - gpt_researcher.scraper.scraper - INFO - URL: http://www.google.com/search?hl=en&q=compare+grocery+prices+across+online+platforms+India+"Blinkit"+"Jiomart"+"Amazon+Fresh"
+2025-02-17 17:32:23,862 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:23,929 - research - INFO - Scraped data size: 1
+2025-02-17 17:32:23,992 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:23,993 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:23,994 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:23,996 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:23,998 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:25,064 - gpt_researcher.scraper.scraper - INFO - 
+Title: JioMart - Best Online Grocery Store for Your Daily Needs
+2025-02-17 17:32:25,065 - gpt_researcher.scraper.scraper - INFO - Content length: 1652 characters
+2025-02-17 17:32:25,065 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:25,066 - gpt_researcher.scraper.scraper - INFO - URL: https://www.jiomart.com/c/groceries/2
+2025-02-17 17:32:25,066 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:25,117 - gpt_researcher.scraper.scraper - INFO - 
+Title: Buy Agro Fresh Rice Flour 1 kg Online at Best Prices in India - JioMart.
+2025-02-17 17:32:25,118 - gpt_researcher.scraper.scraper - INFO - Content length: 4363 characters
+2025-02-17 17:32:25,118 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:25,118 - gpt_researcher.scraper.scraper - INFO - URL: https://www.jiomart.com/p/groceries/agro-fresh-rice-flour-1-kg/590900431
+2025-02-17 17:32:25,118 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:25,440 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-17 17:32:25,440 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-17 17:32:25,440 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:25,441 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/cn/flour/cid/175/801
+2025-02-17 17:32:25,441 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:25,495 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-17 17:32:25,497 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-17 17:32:25,497 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-17 17:32:25,498 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-17 17:32:25,498 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:25,498 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:25,499 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/cn/rice/cid/16/1161
+2025-02-17 17:32:25,499 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/prn/desi-rice-flour/prid/372688
+2025-02-17 17:32:25,499 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:25,500 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:25,528 - research - INFO - Scraped data size: 5
+2025-02-17 17:32:25,597 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:25,598 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:25,600 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:25,604 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:26,348 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-17 17:32:26,348 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-17 17:32:26,348 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:26,349 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/prn/product/prid/560081
+2025-02-17 17:32:26,349 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:26,520 - gpt_researcher.scraper.scraper - INFO - Content length: 2332 characters
+2025-02-17 17:32:26,520 - gpt_researcher.scraper.scraper - INFO - Number of images: 6
+2025-02-17 17:32:26,521 - gpt_researcher.scraper.scraper - INFO - URL: https://www.zeptonow.com/pn/kurkure-schezwan-chutney/pvid/ec59015f-7a3f-4c53-89f1-b52c29a3828a
+2025-02-17 17:32:26,521 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:26,771 - gpt_researcher.scraper.scraper - INFO - 
+Title: Live Chennai: Vegetables Prices, Fruits Prices,Greens / Spinach Prices ,Milk Products Prices,Rice / Dal / Pulses Prices,Cooking Oils Prices, organic rice price, organic oil price, organic dall price, organic vegetable price, patanjali product price chennai Etc..
+2025-02-17 17:32:26,771 - gpt_researcher.scraper.scraper - INFO - Content length: 3399 characters
+2025-02-17 17:32:26,772 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:26,772 - gpt_researcher.scraper.scraper - INFO - URL: https://www.livechennai.com/Commodity_Price_Chennai.asp
+2025-02-17 17:32:26,772 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:29,383 - gpt_researcher.scraper.scraper - INFO - 
+Title: Owino.ug – Feeding the world
+2025-02-17 17:32:29,385 - gpt_researcher.scraper.scraper - INFO - Content length: 4582 characters
+2025-02-17 17:32:29,385 - gpt_researcher.scraper.scraper - INFO - Number of images: 6
+2025-02-17 17:32:29,385 - gpt_researcher.scraper.scraper - INFO - URL: https://owino.ug/
+2025-02-17 17:32:29,385 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:29,425 - research - INFO - Scraped data size: 4
+2025-02-17 17:32:29,533 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:29,536 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:29,539 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:29,542 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:29,543 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-17 17:32:30,022 - gpt_researcher.scraper.scraper - INFO - 
+Title: Competition Analysis: JioMart vs Amazon Fresh in India | by Anweshbiswas | Medium
+2025-02-17 17:32:30,023 - gpt_researcher.scraper.scraper - INFO - Content length: 7334 characters
+2025-02-17 17:32:30,023 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:30,024 - gpt_researcher.scraper.scraper - INFO - URL: https://medium.com/@work.anweshbiswas/competition-analysis-jiomart-vs-amazon-fresh-in-india-9a103c63f6f9
+2025-02-17 17:32:30,024 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:30,847 - gpt_researcher.scraper.scraper - INFO - 
+Title: Analysis: A look at differential pricing on Instamart, Blinkit and Zepto
+2025-02-17 17:32:30,847 - gpt_researcher.scraper.scraper - INFO - Content length: 11614 characters
+2025-02-17 17:32:30,848 - gpt_researcher.scraper.scraper - INFO - Number of images: 10
+2025-02-17 17:32:30,849 - gpt_researcher.scraper.scraper - INFO - URL: https://www.medianama.com/2025/01/223-medianama-analysis-differential-pricing-instamart-blinkit-zepto/
+2025-02-17 17:32:30,849 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:31,260 - gpt_researcher.scraper.scraper - INFO - 
+Title: JioMart Vs Blinkit- Comparison in Detail with Pros & Cons
+2025-02-17 17:32:31,261 - gpt_researcher.scraper.scraper - INFO - Content length: 4653 characters
+2025-02-17 17:32:31,261 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:31,261 - gpt_researcher.scraper.scraper - INFO - URL: https://prabirmandal.com/jiomart-vs-blinkit/
+2025-02-17 17:32:31,262 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:31,342 - gpt_researcher.scraper.scraper - INFO - 
+Title: Top 10 Quick Commerce Companies in India [2025 Updated]
+2025-02-17 17:32:31,343 - gpt_researcher.scraper.scraper - INFO - Content length: 13788 characters
+2025-02-17 17:32:31,343 - gpt_researcher.scraper.scraper - INFO - Number of images: 4
+2025-02-17 17:32:31,344 - gpt_researcher.scraper.scraper - INFO - URL: https://godamwale.com/quick-commerce-companies-in-india/
+2025-02-17 17:32:31,344 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:31,786 - gpt_researcher.scraper.scraper - INFO - 
+Title: None
+2025-02-17 17:32:31,786 - gpt_researcher.scraper.scraper - INFO - Content length: 11939 characters
+2025-02-17 17:32:31,787 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-17 17:32:31,787 - gpt_researcher.scraper.scraper - INFO - URL: https://www.fooddatascrape.com/web-scraping-blinkit-zepto-instamart-and-big-basket-grocery-prices.php
+2025-02-17 17:32:31,787 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-17 17:32:31,825 - research - INFO - Scraped data size: 5
+2025-02-17 17:32:31,860 - research - INFO - Content found for sub-query: 332 chars
+2025-02-17 17:32:31,876 - research - INFO - Content found for sub-query: 9468 chars
+2025-02-17 17:32:31,896 - research - INFO - Content found for sub-query: 9182 chars
+2025-02-17 17:32:31,935 - research - INFO - Content found for sub-query: 11200 chars
+2025-02-17 17:32:35,808 - research - INFO - Content found for sub-query: 9934 chars
+2025-02-17 17:32:35,835 - research - INFO - Gathered context from 5 sub-queries
+2025-02-17 17:32:35,837 - research - INFO - Combined context size: 40120
+2025-02-17 17:32:35,857 - research - INFO - Research completed. Context size: 40120
+2025-02-18 17:57:12,958 - research - INFO - Using web search
+2025-02-18 17:57:18,600 - research - INFO - Initial search results obtained: 10 results
+2025-02-18 17:57:23,133 - research - INFO - Research outline planned: ['"rice" "wheat flour" "sugar" "cooking oil" "milk" price comparison blinkit jiomart amazon fresh "february 18 2025"', 'blinkit jiomart amazon fresh price list grocery staples "February 2025"', '"maximizing donation impact" grocery purchase optimization strategies', 'compare grocery prices across multiple online platforms india "bulk buying discounts"']
+2025-02-18 17:57:23,140 - research - INFO - Generated sub-queries: ['"rice" "wheat flour" "sugar" "cooking oil" "milk" price comparison blinkit jiomart amazon fresh "february 18 2025"', 'blinkit jiomart amazon fresh price list grocery staples "February 2025"', '"maximizing donation impact" grocery purchase optimization strategies', 'compare grocery prices across multiple online platforms india "bulk buying discounts"']
+2025-02-18 17:57:26,268 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:28,334 - gpt_researcher.scraper.scraper - INFO - 
+Title: Google Search
+2025-02-18 17:57:28,336 - gpt_researcher.scraper.scraper - INFO - Content length: 168 characters
+2025-02-18 17:57:28,336 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:28,337 - gpt_researcher.scraper.scraper - INFO - URL: http://www.google.com/search?hl=en&q=compare+grocery+prices+across+multiple+online+platforms+india+"bulk+buying+discounts"
+2025-02-18 17:57:28,338 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:28,467 - research - INFO - Scraped data size: 1
+2025-02-18 17:57:38,139 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:38,141 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:39,398 - gpt_researcher.scraper.scraper - INFO - 
+Title: Last Mile Optimization: Maximizing Impact in Charitable Program Delivery
+2025-02-18 17:57:39,399 - gpt_researcher.scraper.scraper - INFO - Content length: 18687 characters
+2025-02-18 17:57:39,399 - gpt_researcher.scraper.scraper - INFO - Number of images: 1
+2025-02-18 17:57:39,400 - gpt_researcher.scraper.scraper - INFO - URL: https://www.fireflygiving.com/blog/last-mile-optimization-maximizing-impact-in-charitable-program-delivery/
+2025-02-18 17:57:39,401 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:39,853 - gpt_researcher.scraper.scraper - INFO - 
+Title: Google Search
+2025-02-18 17:57:39,854 - gpt_researcher.scraper.scraper - INFO - Content length: 168 characters
+2025-02-18 17:57:39,855 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:39,856 - gpt_researcher.scraper.scraper - INFO - URL: http://www.google.com/search?hl=en&q="maximizing+donation+impact"+grocery+purchase+optimization+strategies
+2025-02-18 17:57:39,857 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:39,931 - research - INFO - Scraped data size: 2
+2025-02-18 17:57:40,095 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:40,096 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:40,099 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:40,104 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:40,110 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:44,610 - gpt_researcher.scraper.scraper - INFO - 
+Title: Jiomart v/s Local Grocery Shop: Price Comparison of best selling grocery items -
+2025-02-18 17:57:44,611 - gpt_researcher.scraper.scraper - INFO - Content length: 6850 characters
+2025-02-18 17:57:44,613 - gpt_researcher.scraper.scraper - INFO - Number of images: 3
+2025-02-18 17:57:44,613 - gpt_researcher.scraper.scraper - INFO - URL: https://jiosell.com/jiomart-v-s-local-shops-price-comparison-of-all-grocery-items/
+2025-02-18 17:57:44,616 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:45,156 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-18 17:57:45,170 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-18 17:57:45,178 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:45,181 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-18 17:57:45,182 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/prn/desi-rice-flour/prid/372688
+2025-02-18 17:57:45,182 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-18 17:57:45,184 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:45,192 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/cn/oil/cid/1557/917
+2025-02-18 17:57:45,193 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:45,213 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:45,257 - gpt_researcher.scraper.scraper - INFO - 
+Title: blinkit | Error Page
+2025-02-18 17:57:45,259 - gpt_researcher.scraper.scraper - INFO - Content length: 483 characters
+2025-02-18 17:57:45,259 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:45,260 - gpt_researcher.scraper.scraper - INFO - URL: https://blinkit.com/cn/flour/cid/175/801
+2025-02-18 17:57:45,261 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:47,073 - gpt_researcher.scraper.scraper - INFO - 
+Title: Web Scraping Blinkit, Zepto, Instamart, and Big Basket Grocery Prices
+2025-02-18 17:57:47,074 - gpt_researcher.scraper.scraper - INFO - Content length: 12009 characters
+2025-02-18 17:57:47,075 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:47,076 - gpt_researcher.scraper.scraper - INFO - URL: https://www.fooddatascrape.com/web-scraping-blinkit-zepto-instamart-and-big-basket-grocery-prices.php
+2025-02-18 17:57:47,076 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:47,163 - research - INFO - Scraped data size: 5
+2025-02-18 17:57:47,821 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:47,825 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:47,830 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:47,832 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:47,836 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:48,455 - gpt_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.desidime.com/discussions/a-website-to-check-prices-on-zepto-instamart-and-blinkit-with-one-click
+2025-02-18 17:57:49,557 - gpt_researcher.scraper.scraper - INFO - 
+Title: DMart, JioMart, Zepto, Blinkit, Flipkart: Who's Offering Best Discounts?
+2025-02-18 17:57:49,559 - gpt_researcher.scraper.scraper - INFO - Content length: 726 characters
+2025-02-18 17:57:49,559 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:49,561 - gpt_researcher.scraper.scraper - INFO - URL: https://www.ndtvprofit.com/business/dmart-jiomart-zepto-blinkit-and-flipkart-whos-offering-best-discounts
+2025-02-18 17:57:49,561 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:49,690 - gpt_researcher.scraper.scraper - INFO - 
+Title: Scraping Grocery Delivery Data - Jiomart, BigBasket, Amazon, Blinkit, Dmart
+2025-02-18 17:57:49,692 - gpt_researcher.scraper.scraper - INFO - Content length: 8427 characters
+2025-02-18 17:57:49,694 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:49,695 - gpt_researcher.scraper.scraper - INFO - URL: https://www.fooddatascrape.com/scraping-grocery-delivery-data-from-jiomart-bigbasket-amazon-blinkit-and-dmart.php
+2025-02-18 17:57:49,697 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:49,795 - gpt_researcher.scraper.scraper - INFO - 
+Title: Analysis: A look at differential pricing on Instamart, Blinkit and Zepto
+2025-02-18 17:57:49,796 - gpt_researcher.scraper.scraper - INFO - Content length: 11609 characters
+2025-02-18 17:57:49,797 - gpt_researcher.scraper.scraper - INFO - Number of images: 10
+2025-02-18 17:57:49,798 - gpt_researcher.scraper.scraper - INFO - URL: https://www.medianama.com/2025/01/223-medianama-analysis-differential-pricing-instamart-blinkit-zepto/
+2025-02-18 17:57:49,799 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:51,091 - gpt_researcher.scraper.scraper - INFO - 
+Title: BigBasket vs Zepto vs Blinkit - Price Comparison & Best Deals 
+2025-02-18 17:57:51,092 - gpt_researcher.scraper.scraper - INFO - Content length: 21696 characters
+2025-02-18 17:57:51,093 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:51,093 - gpt_researcher.scraper.scraper - INFO - URL: https://www.actowizsolutions.com/bigbasket-zepto-blinkit-price-comparison.php
+2025-02-18 17:57:51,094 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:51,164 - research - INFO - Scraped data size: 4
+2025-02-18 17:57:51,371 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:51,372 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:51,373 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:51,376 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:51,382 - gpt_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-02-18 17:57:54,233 - gpt_researcher.scraper.scraper - INFO - 
+Title: Blinkit Coupon Codes & Discounts: Up To 80% OFF | Feb 2025
+2025-02-18 17:57:54,235 - gpt_researcher.scraper.scraper - INFO - Content length: 18575 characters
+2025-02-18 17:57:54,236 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:54,257 - gpt_researcher.scraper.scraper - INFO - URL: https://www.grabon.in/blinkit-coupons/
+2025-02-18 17:57:54,259 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:54,667 - gpt_researcher.scraper.scraper - INFO - 
+Title: 
+    JioMart Coupons - 50% OFF Coupon Code | Today's Best Offer  
+2025-02-18 17:57:54,669 - gpt_researcher.scraper.scraper - INFO - Content length: 9918 characters
+2025-02-18 17:57:54,671 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:54,672 - gpt_researcher.scraper.scraper - INFO - URL: https://www.couponzguru.com/jiomart-coupons/
+2025-02-18 17:57:54,673 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:55,015 - gpt_researcher.scraper.scraper - INFO - 
+Title: AMAZON FRESH - Updated February 2025 - 661 Photos & 271 Reviews - 13672 Jamboree Rd, Irvine, California - Grocery - Phone Number - Yelp
+2025-02-18 17:57:55,017 - gpt_researcher.scraper.scraper - INFO - Content length: 1686 characters
+2025-02-18 17:57:55,019 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:55,020 - gpt_researcher.scraper.scraper - INFO - URL: https://www.yelp.com/biz/amazon-fresh-irvine-2
+2025-02-18 17:57:55,021 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:55,653 - gpt_researcher.scraper.scraper - INFO - 
+Title: Blinkit Coupons & Offers, February 2025 Promo Codes
+2025-02-18 17:57:55,656 - gpt_researcher.scraper.scraper - INFO - Content length: 14408 characters
+2025-02-18 17:57:55,657 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:55,658 - gpt_researcher.scraper.scraper - INFO - URL: https://www.coupondunia.in/blinkit-coupons
+2025-02-18 17:57:55,659 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:55,918 - gpt_researcher.scraper.scraper - INFO - 
+Title: Grocery Coupons: 85% OFF on Grocery Delivery | February 2025
+2025-02-18 17:57:55,919 - gpt_researcher.scraper.scraper - INFO - Content length: 16531 characters
+2025-02-18 17:57:55,921 - gpt_researcher.scraper.scraper - INFO - Number of images: 0
+2025-02-18 17:57:55,921 - gpt_researcher.scraper.scraper - INFO - URL: https://happycheckout.in/coupons/Grocery
+2025-02-18 17:57:55,922 - gpt_researcher.scraper.scraper - INFO - ==================================================
+2025-02-18 17:57:56,015 - research - INFO - Scraped data size: 5
+2025-02-18 17:57:56,126 - research - INFO - Content found for sub-query: 330 chars
+2025-02-18 17:57:56,157 - research - INFO - Content found for sub-query: 10301 chars
+2025-02-18 17:57:56,185 - research - INFO - Content found for sub-query: 11109 chars
+2025-02-18 17:57:56,257 - research - INFO - Content found for sub-query: 11392 chars
+2025-02-18 17:58:01,224 - research - INFO - Content found for sub-query: 10775 chars
+2025-02-18 17:58:01,302 - research - INFO - Gathered context from 5 sub-queries
+2025-02-18 17:58:01,304 - research - INFO - Combined context size: 43911
+2025-02-18 17:58:01,391 - research - INFO - Research completed. Context size: 43911

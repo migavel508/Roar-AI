@@ -51,7 +51,7 @@ class ConfigRequest(BaseModel):
     OPENAI_API_KEY: str
     DOC_PATH: str
     RETRIEVER: str
-    GOOGLE_API_KEY: str = ''
+    GOOGLE_API_KEY: str = 'AIzaSyBx73nnKZwXYLaRhVMaqHL6gpQKqvgakGo'
     GOOGLE_CX_KEY: str = ''
     BING_API_KEY: str = ''
     SEARCHAPI_API_KEY: str = ''

@@ -15,6 +15,7 @@
   "author": "GPT Researcher",
   "license": "ISC",
   "dependencies": {
+    "gpt-researcher": "file:",
     "ws": "^8.18.0"
   }
 }
